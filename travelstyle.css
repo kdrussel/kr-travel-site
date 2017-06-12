@@ -1,0 +1,121 @@
+html{
+ background: url(https://static1.squarespace.com/static/54d3ba2fe4b05da119ecc157/t/54e3c7b6e4b02a415877fa04/1424213945149/Wood-Background+%281%29.jpg?format=1500w) no-repeat center center fixed;
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+ font-family: arial;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+h1{
+  position: absolute;
+  left: 0;
+  top: 25%;
+  width: 100%;
+  text-align: center;
+  color: #fff;
+  background-color: #111
+  padding: 20px;
+  font-size: 25px;
+}
+
+h2{
+  color: white;
+  border: 2px solid black;
+  margin: 2px;
+  text-align: center;
+}
+
+p{
+  color: white;
+}
+
+.banner2{
+   background-color: #111;
+  color: #fff;
+  padding: 20px;
+  font-size: 25px;
+  letter-spacing: 10px;
+  font-family: arial;
+  transition: all .5s ease-in;
+}
+
+.banner2:hover{
+  background-color: white;
+  color:black;
+}
+.main{
+  color: #fff;
+  padding: 20px;
+  font-size: 25px;
+  letter-spacing: 10px;
+  font-family: arial;
+ }
+
+.blurbs{
+  text-align: center;
+  text-decoration-color: black;
+}
+
+.links{
+  text-align: center;
+
+}
+
+.countries{
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  font-weight: bold;
+  border: 3px solid black;
+  color: white;
+}
+
+
+.heading{
+  background-color: #111;
+  color: #fff;
+  padding: 20px;
+  font-size: 25px;
+  letter-spacing: 10px;
+  font-family: arial;
+  transition: all .5s ease-in;
+}
+
+.caption{
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: #000;
+}
+
+.heading:hover{
+  background-color: white;
+  color: black;
+}
+
+.thumbnail>img{
+    display: block;
+    max-width: 100%;
+    height: auto
+}
+
+img{
+  vertical-align: middle;
+  border: 0;
+}
+
+#navbar{
+      opacity: 0.9px;
+      color: red;
+}
